@@ -326,6 +326,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
+**Author:** Pradyumn Shirsath
+
 *Made with 🧬 for Network Science & Epidemiology Research*
 
 **Contributing to the understanding of epidemic dynamics on complex networks**
